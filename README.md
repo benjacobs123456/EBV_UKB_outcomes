@@ -4,4 +4,5 @@ This repo contains analysis code for 'No association between Epstein-Barr Virus 
 
 The code is in [here](https://github.com/benjacobs123456/EBV_UKB_outcomes/blob/main/analysis.R) 
 
-Ben Jacobs 25-08-26.
+Author: Ben Jacobs 
+Date: 25-08-26.
