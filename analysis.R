@@ -415,6 +415,8 @@ coxph(Surv(survtime, death_outcome) ~
   mutate(model = "VCA titre")
 )
 
+## strict def
+all_res = all_res %>% bind_rows(strict_def)
 write_csv(all_res,"../outputs/all_cox_res.csv")
 
 
